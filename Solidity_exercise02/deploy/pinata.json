@@ -1,0 +1,11 @@
+{
+  "name": "CA_Nft",
+  "description": "This is my first NFT CAT",
+  "image": "ipfs://0198bc2c-745a-7995-89ec-a495e61391d0",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Digital Art"
+    }
+  ]
+}
